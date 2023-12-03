@@ -1,1 +1,26 @@
 
+.nav-bar {
+    background-color: red;
+    color: blue;
+    height: 135px;
+    margin: 200px;
+    text-align: center;
+}
+.banner {
+    background-color: purple;
+    height: 110px;
+}
+.content {
+    background-color: green;
+    height: 100px;
+}
+.footer {
+    background-color: black;
+    height: 200px;
+    margin: 20px;
+}
+img {
+    width: 100%;
+    
+    filter: graysacle(50%) invert(100%);
+}
